@@ -47,6 +47,19 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício i: Go to School](https://atcoder.jp/contests/abc142/tasks/abc142_c?lang=en)
 - [Exercício j: Alchemist](https://atcoder.jp/contests/abc138/tasks/abc138_c?lang=en)
 
+### Treino_4
+
+- [Exercício a: Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b)
+- [Exercício b: Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b)
+- [Exercício c: Coloring Colorfully](https://atcoder.jp/contests/abc124/tasks/abc124_c)
+- [Exercício d: Low Elements](https://atcoder.jp/contests/abc152/tasks/abc152_c)
+- [Exercício e: Comparison](https://atcoder.jp/contests/abc059/tasks/abc059_b)
+- [Exercício f: Palindromic Numbers](https://atcoder.jp/contests/abc090/tasks/abc090_b)
+- [Exercício g: Static Range Sum Queries](https://cses.fi/problemset/task/1646)
+- [Exercício h: Exception Handling](https://atcoder.jp/contests/abc134/tasks/abc134_c)
+- [Exercício i: Lower](https://atcoder.jp/contests/abc139/tasks/abc139_c)
+- [Exercício j: Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
