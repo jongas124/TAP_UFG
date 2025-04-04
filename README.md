@@ -34,6 +34,19 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício i: Snack](https://atcoder.jp/contests/abc148/tasks/abc148_c?lang=en)
 - [Exercício j: Triangle?](https://atcoder.jp/contests/abc224/tasks/abc224_c?lang=en)
 
+### Treino_3
+
+- [Exercício a: Signed Difficulty](https://atcoder.jp/contests/abc216/tasks/abc216_a?lang=en)
+- [Exercício b: Cycle Hit](https://atcoder.jp/contests/abc211/tasks/abc211_b?lang=en)
+- [Exercício c: Power Socket](https://atcoder.jp/contests/abc139/tasks/abc139_b?lang=en)
+- [Exercício d: Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c?lang=en)
+- [Exercício e: Can you solve this?](https://atcoder.jp/contests/abc121/tasks/abc121_b?lang=en)
+- [Exercício f: Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b?lang=en)
+- [Exercício g: Break Number](https://atcoder.jp/contests/abc068/tasks/abc068_b?lang=en)
+- [Exercício h: Divide the Problems](https://atcoder.jp/contests/abc132/tasks/abc132_c?lang=en)
+- [Exercício i: Go to School](https://atcoder.jp/contests/abc142/tasks/abc142_c?lang=en)
+- [Exercício j: Alchemist](https://atcoder.jp/contests/abc138/tasks/abc138_c?lang=en)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
