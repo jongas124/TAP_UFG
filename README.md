@@ -60,6 +60,18 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício i: Lower](https://atcoder.jp/contests/abc139/tasks/abc139_c)
 - [Exercício j: Candies](https://atcoder.jp/contests/abc087/tasks/arc090_a)
 
+### Treino_5
+
+- [Exercício a: Counting 2](https://atcoder.jp/contests/abc231/tasks/abc231_c?lang=en)
+- [Exercício b: Distinct Numbers](https://cses.fi/problemset/task/1621)
+- [Exercício c: Sum of Two Values](https://cses.fi/problemset/task/1640)
+- [Exercício d: Apartments](https://cses.fi/problemset/task/1084)
+- [Exercício e: Ferris Wheel](https://cses.fi/problemset/task/1090)
+- [Exercício f: Sum of Three Values](https://cses.fi/problemset/task/1641)
+- [Exercício g: Playlist](https://cses.fi/problemset/task/1141)
+- [Exercício i: Factory Machines](https://cses.fi/problemset/task/1620)
+- [Exercício j: Subarray Sums I](https://cses.fi/problemset/task/1660)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
