@@ -72,6 +72,13 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício i: Factory Machines](https://cses.fi/problemset/task/1620)
 - [Exercício j: Subarray Sums I](https://cses.fi/problemset/task/1660)
 
+### Treino_6
+
+- [Exercício a: log2(N)](https://atcoder.jp/contests/abc215/tasks/abc215_b?lang=en)
+- [Exercício b: Bitwise Exclusive Or](https://atcoder.jp/contests/abc213/tasks/abc213_a?lang=en)
+- [Exercício c: 1-2-4 Test](https://atcoder.jp/contests/abc270/tasks/abc270_a?lang=en)
+- [Exercício d: Submask](https://atcoder.jp/contests/abc269/tasks/abc269_c?lang=en)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
