@@ -87,6 +87,12 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício e: Apple Division](https://cses.fi/problemset/task/1623)
 - [Exercício g: To 3](https://atcoder.jp/contests/abc182/tasks/abc182_c?lang=en)
 
+### Treino_8
+
+- [Exercício a: Disjoint Sets Union](https://basecamp.eolymp.com/en/problems/10811)
+- [Exercício b: Disjoint Sets Union 2](https://basecamp.eolymp.com/en/problems/10814)
+- [Exercício c: Friends](https://atcoder.jp/contests/abc177/tasks/abc177_d?lang=en)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
