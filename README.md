@@ -93,6 +93,14 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício b: Disjoint Sets Union 2](https://basecamp.eolymp.com/en/problems/10814)
 - [Exercício c: Friends](https://atcoder.jp/contests/abc177/tasks/abc177_d?lang=en)
 
+### Treino_9
+
+- [Exercício a: Median?](https://atcoder.jp/contests/abc253/tasks/abc253_a?lang=en)
+- [Exercício b: Mex](https://atcoder.jp/contests/abc245/tasks/abc245_b?lang=en)
+- [Exercício c: Hit and Blow](https://atcoder.jp/contests/abc243/tasks/abc243_b?lang=en)
+- [Exercício d: Special Fibonacci](https://www.codechef.com/problems/FIBXOR01)
+- [Exercício e: Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
