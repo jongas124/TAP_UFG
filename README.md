@@ -79,6 +79,14 @@ Acesse os enunciados de cada exercício pelos links abaixo:
 - [Exercício c: 1-2-4 Test](https://atcoder.jp/contests/abc270/tasks/abc270_a?lang=en)
 - [Exercício d: Submask](https://atcoder.jp/contests/abc269/tasks/abc269_c?lang=en)
 
+### Treino_7
+
+- [Exercício a: Split?](https://atcoder.jp/contests/abc267/tasks/abc267_b?lang=en)
+- [Exercício b: Fourtune Cookies](https://atcoder.jp/contests/arc105/tasks/arc105_a?lang=en)
+- [Exercício c: Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c?lang=en)
+- [Exercício e: Apple Division](https://cses.fi/problemset/task/1623)
+- [Exercício g: To 3](https://atcoder.jp/contests/abc182/tasks/abc182_c?lang=en)
+
 ## 💻 Como Executar os Códigos
 
 Para compilar e executar um dos exercícios em C++, utilize o seguinte comando no terminal:
